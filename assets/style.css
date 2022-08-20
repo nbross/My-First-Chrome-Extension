@@ -12,15 +12,18 @@ input {
     border: 1px solid #5f9341;
 }
 
-.btn {
+button {
     margin-top: 4px;
     background-color: #5f9341;
     color: white;
-    border: none;
-    font-size: large;
+    border: 1px solid #5f9341;
     font-weight: bold;
     padding: 10px 20px;
-    width: 35%;
+}
+
+.d-btn {
+    background-color: white;
+    color: #5f9341;
 }
 
 ul {
